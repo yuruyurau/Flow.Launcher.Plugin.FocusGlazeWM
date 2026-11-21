@@ -4,7 +4,7 @@
   "Name": "FocusGlazeWM",
   "Description": "Focus GlazeWM managed windows",
   "Author": "yuruyurau",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Language": "csharp",
   "Website": "https://github.com/yuruyurau/Flow.Launcher.Plugin.FocusGlazeWM",
   "IcoPath": "assets\\icon.png",

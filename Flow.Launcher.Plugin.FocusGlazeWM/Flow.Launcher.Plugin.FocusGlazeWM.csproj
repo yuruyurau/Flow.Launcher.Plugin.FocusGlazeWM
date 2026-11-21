@@ -32,5 +32,10 @@
     <PackageReference Include="Flow.Launcher.Plugin" Version="5.3.2" />
   </ItemGroup>
 
+  <Target Name="RemoveUnnecessaryFiles" AfterTargets="Publish">
+    <Delete Files="$(PublishDir)Microsoft.Windows.SDK.NET.dll" />
+    <Delete Files="$(PublishDir)*.xml" />
+  </Target>
+
 </Project>
 
