@@ -1,0 +1,12 @@
+{
+  "ID": "1AFE9E56-4090-4F94-A16E-8C5EA43420C3",
+  "ActionKeyword": "ww",
+  "Name": "FocusGlazeWM",
+  "Description": "Focus GlazeWM managed windows",
+  "Author": "yuruyurau",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/yuruyurau/Flow.Launcher.Plugin.FocusGlazeWM",
+  "IcoPath": "assets\\icon.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.FocusGlazeWM.dll"
+}
